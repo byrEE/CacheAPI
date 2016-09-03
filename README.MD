@@ -1,8 +1,8 @@
 #**This is just a simple cache API with Jedis and SpringSerializer supportted**
 
 #Finished work
-####1.generics interfaces supportted  
-####2.asynchronization supportted
+####1.Generics interfaces supportted  
+####2.Gsynchronization supportted
 
 #Future work
 ####1.Add more serialize/deserialize frame extentions(this will be a Performance bottlenecks)  
